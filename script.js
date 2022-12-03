@@ -34,7 +34,6 @@ const handleAddTask = () => {
   updateLocalStorage();
 };
 
-/* Função completa tarefa */
 const handleClick = (taskContent) => {
   const tasks = taskContainer.childNodes;
 
@@ -47,7 +46,6 @@ const handleClick = (taskContent) => {
   updateLocalStorage();
 };
 
-/* Função deleta tarefa */
 const handleDeleteClick = (taskItemContainer, taskContent) => {
   const tasks = taskContainer.childNodes;
 
@@ -78,11 +76,9 @@ const updateLocalStorage = () => {
     return { description: content.innerText, isCompleted };
   });
 
-  /* Criando local storage */
   localStorage.setItem("tasks", JSON.stringify(localStorageTasks));
 };
 
-/* Guardando dados das tarefas */
 const refreshTasks = () => {
   const tasksFromLocalStorage = JSON.parse(localStorage.getItem("tasks"));
 
