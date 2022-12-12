@@ -116,5 +116,4 @@ const refreshTasks = () => {
 refreshTasks();
 
 addTaskButton.addEventListener("click", () => handleAddTask());
-
 inputElement.addEventListener("change", () => handleInputChange());
