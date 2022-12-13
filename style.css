@@ -101,3 +101,15 @@ body {
 .completed {
   text-decoration: line-through;
 }
+
+@media screen and (max-width: 1150px) {
+  .container {
+    width: 100vw;
+  }
+  .new-task-container {
+    width: 1/2;
+  }
+  .new-task-container input {
+    width: 10%;
+  }
+}
