@@ -1,4 +1,4 @@
-# Task list
+# Task list.
 
 https://user-images.githubusercontent.com/113216494/207342618-f941c049-be1d-43ad-9ede-3353bfd49bee.mp4
 
