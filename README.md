@@ -19,6 +19,6 @@ Fiz esse projeto para apeiferçoar meus conhecimentos em manipulação da DOM co
 <br>
 <br>
 
-Por <a href="https://github.com/gustamtz">@gustamtz </a>
+Por: <a href="https://github.com/gustamtz">@gustamtz </a>
 
 
