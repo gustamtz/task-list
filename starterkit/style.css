@@ -7,7 +7,7 @@
 
 body {
   height: 100vh;
-  background-image: url(./images/wallpaper.jpg);
+  background: rgb(164, 163, 163);
   background-size: cover;
   backdrop-filter: blur(1px);
   display: flex;
