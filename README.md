@@ -14,7 +14,7 @@ Fique a vontade para baixar zip ou acessar o `index.html`, copiar e colar no dev
 <br>
 
 # Por que?
-Fiz esse projeto para apeiferçoar meus conhecimentos em manipulação da DOM e armazenamento de dados no navegador com JavaScript.
+Fiz esse projeto para apeiferçoar meus conhecimentos em manipulação da DOM e armazenamento de dados no navegador com Vanilla JS.
 <br>
 <br>
 <br>
