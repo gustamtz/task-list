@@ -5,7 +5,7 @@ Uma web task list rápida e ficaz para anotar, completar e deletar tarefas.
 
 <br>
 
-![tasklist](https://user-images.githubusercontent.com/113216494/212548182-29636a0a-a9e4-4984-b9bc-02322a1fadae.png)
+![tasklist](https://user-images.githubusercontent.com/113216494/213932546-4e8d1121-593e-4326-8264-f9713cd5f68a.png)
 
 <br>
 
