@@ -1,7 +1,7 @@
 # Task list.
 
 # Descrição
-Uma web task list rápida e ficaz para anotar, completar e deletar tarefas. 
+Uma web task list rápida e eficaz para anotar, completar e deletar tarefas. 
 
 <br>
 
