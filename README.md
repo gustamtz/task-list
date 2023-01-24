@@ -32,7 +32,7 @@ Uma web task list rápida e eficaz para anotar, completar e deletar tarefas.
 ## Rode o projeto
 1. Clone este repositório:
 ```sh
-  $ git clone endereco-do-repositório
+  $ git clone endereço-do-repositório
 ```
 
 <br>
